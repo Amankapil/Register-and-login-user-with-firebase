@@ -1,0 +1,30 @@
+.register {
+  background-color: #8ec5fc;
+  background-image: linear-gradient(62deg, #8ec5fc 0%, #e0c3fc 100%);
+
+  display: flex;
+
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  width: 100vw;
+  height: 50vw;
+}
+
+.logfm {
+  width: 50vw;
+}
+.logb {
+  width: 30vw;
+}
+.h2 {
+  border: 0.5px solid rgb(0, 0, 0);
+  width: 50%;
+  box-shadow: 4, 4, 4, 3 black;
+  box-shadow: 4px 13px 53px -17px rgba(0, 0, 0, 0.6) inset;
+  -webkit-box-shadow: 4px 13px 53px -17px rgba(0, 0, 0, 0.6) inset;
+  -moz-box-shadow: 4px 13px 53px -17px rgba(0, 0, 0, 0.6) inset;
+  border-radius: 22px;
+  padding: 4px;
+}

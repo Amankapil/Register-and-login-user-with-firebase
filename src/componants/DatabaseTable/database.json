@@ -1,0 +1,146 @@
+[
+    {
+        "EmployeeID" : 1,
+        "EmployeeName" : "Aman kapil",
+        "DateOfBirth" : "31-03-2002",
+        "Email" : "amankapil60@gmail.com",
+        "PhoneNumber" : 8103075691,
+        "Street" : "saray",
+        "City" : "Bhopal",
+        "State" : "MadhyaPradesh",
+        "Country" : "India",
+        "Pincode" : 450001
+
+    },
+    {
+        "EmployeeID" : 2,
+        "EmployeeName" : "john",
+        "DateOfBirth" : "12-03-2000",
+        "Email" : "example02@gmail.com",
+        "PhoneNumber" : 34435325245,
+        "Street" : "hani",
+        "City" : "bang",
+        "State" : "MadhyaPradesh",
+        "Country" : "India",
+        "Pincode" : 450001
+
+    },
+    {
+        "EmployeeID" : 3,
+        "EmployeeName" : "skyler",
+        "DateOfBirth" : "9-05-1999",
+        "Email" : "example03@gmail.com",
+        "PhoneNumber" : 4987572938475,
+        "Street" : "guna",
+        "City" : "Bhopal",
+        "State" : "MadhyaPradesh",
+        "Country" : "India",
+        "Pincode" : 450001
+
+    },
+    {
+        "EmployeeID" : 4,
+        "EmployeeName" : "lennisters",
+        "DateOfBirth" : "05-03-2005",
+        "Email" : "example04@gmail.com",
+        "PhoneNumber" : 720504985703,
+        "Street" : "bina",
+        "City" : "Bhopal",
+        "State" : "MadhyaPradesh",
+        "Country" : "India",
+        "Pincode" : 450001
+
+    },
+    {
+        "EmployeeID" : 5,
+        "EmployeeName" : "vecna",
+        "DateOfBirth" : "31-03-2002",
+        "Email" : "example05@gmail.com",
+        "PhoneNumber" : 78758094702,
+        "Street" : "jonas ",
+        "City" : "Bhopal",
+        "State" : "MadhyaPradesh",
+        "Country" : "India",
+        "Pincode" : 450001
+
+    },
+    {
+        "EmployeeID" : 6,
+        "EmployeeName" : "jonas",
+        "DateOfBirth" : "3-03-2002",
+        "Email" : "example06@gmail.com",
+        "PhoneNumber" : 85349282,
+        "Street" : "hawkins",
+        "City" : "Bhopal",
+        "State" : "MadhyaPradesh",
+        "Country" : "India",
+        "Pincode" : 450001
+
+    },
+    {
+        "EmployeeID" : 7,
+        "EmployeeName" : "north king",
+        "DateOfBirth" : "1-05-1944",
+        "Email" : "example07@gmail.com",
+        "PhoneNumber" : 7250497203985,
+        "Street" : "paris",
+        "City" : "Bhopal",
+        "State" : "MadhyaPradesh",
+        "Country" : "India",
+        "Pincode" : 450001
+
+    },
+    {
+        "EmployeeID" : 8,
+        "EmployeeName" : "jassi",
+        "DateOfBirth" : "1-05-2005",
+        "Email" : "example08@gmail.com",
+        "PhoneNumber" : 93857227,
+        "Street" : "peralll",
+        "City" : "Bhopal",
+        "State" : "MadhyaPradesh",
+        "Country" : "India",
+        "Pincode" : 450001
+
+    },
+    {
+        "EmployeeID" : 9,
+        "EmployeeName" : " professor",
+        "DateOfBirth" : "08-03-2009",
+        "Email" : "example09@gmail.com",
+        "PhoneNumber" : 5279380437,
+        "Street" : "tokyo",
+        "City" : "Bhopal",
+        "State" : "MadhyaPradesh",
+        "Country" : "India",
+        "Pincode" : 450001
+
+    },
+    {
+        "EmployeeID" : 10,
+        "EmployeeName" : " berlin",
+        "DateOfBirth" : "06-09-2011",
+        "Email" : "example10@gmail.com",
+        "PhoneNumber" : 984570232,
+        "Street" : "turki",
+        "City" : "Bhopal",
+        "State" : "MadhyaPradesh",
+        "Country" : "India",
+        "Pincode" : 450001
+
+    },
+    {
+        "EmployeeID" : 11,
+        "EmployeeName" : " professor",
+        "DateOfBirth" : "08-03-2009",
+        "Email" : "example09@gmail.com",
+        "PhoneNumber" : 5279380437,
+        "Street" : "tokyo",
+        "City" : "Bhopal",
+        "State" : "MadhyaPradesh",
+        "Country" : "India",
+        "Pincode" : 450001
+
+    }
+    
+]

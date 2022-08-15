@@ -1,0 +1,13 @@
+.containe{
+    display: flex;
+    flex-direction: column;
+    height: 30vw;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid beige;
+    box-shadow: 4px 13px 53px -17px rgba(99, 0, 0, 0.6) inset;
+    -webkit-box-shadow: 4px 13px 53px -17px rgba(144, 21, 21, 0.6) inset;
+    -moz-box-shadow: 4px 13px 53px -17px rgba(0, 0, 0, 0.6) inset;
+    border-radius: 22px;
+    margin-top: 12px;
+}
